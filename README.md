@@ -1,4 +1,4 @@
-Contact Info-  +91-9964716807
+want to buy this project Contact Info-  +91-9964716807
 # Online_Inventory_shop
 Online shop with admin and supplier 
 User Side Home Page 
