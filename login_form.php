@@ -112,7 +112,7 @@ if (isset($_POST["login_user_with_product"])) {
         
       <input class="un " type="text" align="center" placeholder="Username" name="email">
       <input class="pass" type="password" align="center" placeholder="Password" name="password">
-       <input id="myButton" class="submit" type="submit" name="email"  Value="Login">
+       <input id="myButton" class="submit" type="submit"   Value="Login">
      
   </form>
             

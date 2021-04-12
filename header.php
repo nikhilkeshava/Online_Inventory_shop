@@ -91,9 +91,9 @@ session_start();
         <div id="top-header">
             <div class="container">
                 <ul class="header-links pull-left">
-                    <li><a href="#"><i class="fa fa-phone"></i> +91-917152</a></li>
-                    <li><a href="#"><i class="fa fa-envelope-o"></i>demo@gmail.com</a></li>
-                    <li><a href="#"><i class="fa fa-map-marker"></i>cityname</a></li>
+                    <li><a href="#"><i class="fa fa-phone"></i> +91-9964716807</a></li>
+                    <li><a href="#"><i class="fa fa-envelope-o"></i>nikhilkeshav76@gmail.com</a></li>
+                    <li><a href="#"><i class="fa fa-map-marker"></i>Mysore</a></li>
                 </ul>
 
             </div>
@@ -127,7 +127,7 @@ session_start();
                                     
                                 </select>
                                 <input class="input" id="search" type="text" placeholder="Search here">
-                                <button type="submit" id="search_btn" class="search-btn" style="background: #d10024;
+                                <button type="submit" id="search_btn" class="search-btn" style="background:  #00bcd4;
     color: #fff;">Search</button>
                             </form>
                         </div>
@@ -161,7 +161,8 @@ session_start();
                             <!-- /Cart -->
                               <ul class="header-links pull-right">
            
-                    <li><?php include "db.php";
+                    <li>
+                        <?php include "db.php";
                             if(isset($_SESSION["uid"])){
                                 $sql = "SELECT first_name FROM user_info WHERE user_id='$_SESSION[uid]'";
                                 $query = mysqli_query($con,$sql);
@@ -192,7 +193,7 @@ session_start();
                     </li>
                     <style type="text/css">
                         .header-links li i {
-    color: #fff;
+    color: #00bcd4;
     margin-right: 15px;
 }
                     </style>
@@ -221,7 +222,7 @@ session_start();
     <style type="text/css">
         .main-nav>li>a {
     padding: 20px 0px;
-    color: #000;
+    color: #00bcd4;
 }
 a {
     color: #000;

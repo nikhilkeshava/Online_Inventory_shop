@@ -8,11 +8,11 @@
 						<div class="col-md-3 col-xs-6">
 							<div class="footer">
 								<h3 class="footer-title">About Us</h3>
-								<p>This is project based on the online shopping</p>
+								<p>This is the project build on php and mysql and also used ajex for business logic and frontend logic visit our website for more projects </p>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>place</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-999999999</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>demo@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Mysore</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+91-9964713807</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>nikhilkeshav76@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -20,7 +20,7 @@
 							
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank" style="color: #fff;">Jeyapratha Puspanathan</a>
+								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank" style="color: #fff;">notes4free.in</a>
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 						</div>

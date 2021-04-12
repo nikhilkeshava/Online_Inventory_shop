@@ -1,0 +1,6 @@
+To open admin - /admin/login.php
+admin username-admin
+pass-admin
+ 
+
+To open supplier- /supplier/login.php

@@ -1,6 +1,6 @@
 
    <div class="main mainn-raised">
-        <div class="container mainn-raised" style="width:100%;">
+        <div class="container mainn-raised" style="width:100%;height: 60vh;">
   
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -10,25 +10,25 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;height: 60vh;">
         
       </div>
 
       <div class="item">
-        <img src="img/banner2.jpg" style="width:100%;">
+        <img src="img/banner2.jpg" style="width:100%;height: 60vh;">
         
       </div>
     
       <div class="item">
-        <img src="img/banner4.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner4.jpg" alt="New York" style="width:100%;height: 60vh;">
         
       </div>
       <div class="item">
-        <img src="img/banner1.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner1.jpg" alt="New York" style="width:100%;height: 60vh;">
         
       </div>
       <div class="item">
-        <img src="img/banner3.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner3.jpg" alt="New York" style="width:100%;height: 60vh;">
         
       </div>
   
@@ -117,12 +117,12 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">New Products</h3>
+							<h3 class="title">New Arrival Products</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab1">Laptops</a></li>
+									<li class="active"><a data-toggle="tab" href="#tab1">Camera</a></li>
 									<li><a data-toggle="tab" href="#tab1">Smartphones</a></li>
-									<li><a data-toggle="tab" href="#tab1">Cameras</a></li>
+									<li><a data-toggle="tab" href="#tab1">Mobile</a></li>
 									<li><a data-toggle="tab" href="#tab1">Accessories</a></li>
 								</ul>
 							</div>
@@ -172,7 +172,7 @@
 									<div class='product-body'>
 										<p class='product-category'>$cat_name</p>
 										<h3 class='product-name header-cart-item-name'><a href='product.php?p=$pro_id'>$pro_title</a></h3>
-										<h4 class='product-price header-cart-item-info'>RM $pro_price <del class='product-old-price'>RM $pro_dis</del></h4>
+										<h4 class='product-price header-cart-item-info'>Rs. $pro_price <del class='product-old-price'>Rs. $pro_dis</del></h4>
 										
 										
 									</div>
@@ -215,7 +215,7 @@
 							<ul class="hot-deal-countdown">
 								<li>
 									<div>
-										<h3>02</h3>
+										<h3>05</h3>
 										<span>Days</span>
 									</div>
 								</li>
@@ -227,7 +227,7 @@
 								</li>
 								<li>
 									<div>
-										<h3>34</h3>
+										<h3>40</h3>
 										<span>Mins</span>
 									</div>
 								</li>
@@ -239,8 +239,8 @@
 								</li>
 							</ul>
 							<h2 class="text-uppercase">hot deal this week</h2>
-							<p>New Collection Up to 50% OFF</p>
-							<a class="primary-btn cta-btn" href="store.php">Shop now</a>
+							<p>Save upto 50% OFF</p>
+							<a class="primary-btn cta-btn" href="store.php">Buy now</a>
 						</div>
 					</div>
 				</div>
@@ -261,7 +261,7 @@
 				<div class="row">
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top Mobile Product</h4>
 							<div class="section-nav">
 								<div id="slick-nav-3" class="products-slick-nav"></div>
 							</div>
@@ -284,7 +284,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 970.00  <del class="product-old-price">RM 850 </del></h4>
+										<h4 class="product-price">Rs. 970.00  <del class="product-old-price">Rs. 850 </del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -297,7 +297,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 980.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 980.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -310,7 +310,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 980.00 <del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 980.00 <del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -320,7 +320,7 @@
 
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top Laptop Product</h4>
 							<div class="section-nav">
 								<div id="slick-nav-4" class="products-slick-nav"></div>
 							</div>
@@ -336,7 +336,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -349,7 +349,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -362,7 +362,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -377,7 +377,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -390,7 +390,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -403,7 +403,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -417,7 +417,7 @@
 
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top Accessories Collection</h4>
 							<div class="section-nav">
 								<div id="slick-nav-5" class="products-slick-nav"></div>
 							</div>
@@ -433,7 +433,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -446,7 +446,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -459,7 +459,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -474,7 +474,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -488,7 +488,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -501,7 +501,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">RM 990.00<del class="product-old-price">RM 990.00</del></h4>
+										<h4 class="product-price">Rs. 990.00<del class="product-old-price">Rs. 990.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->

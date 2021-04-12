@@ -14,7 +14,7 @@ if(isset($_POST["categoryhome"])){
 					<!-- NAV -->
 					<ul class='main-nav nav navbar-nav'>
                     <li class='active'><a href='index.php'>Home</a></li>
-					<li><a href='store.php'>Mobiles </a></li>
+					<li><a href='store.php'>Mobile</a></li>
 					
 	";
 	if(mysqli_num_rows($run_query) > 0){

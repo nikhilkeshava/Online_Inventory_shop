@@ -61,7 +61,7 @@ label {
 }
 
 .checkout-btn {
-  background-color: #4CAF50;
+  background-color: #00bcd4;
   color: white;
   padding: 12px;
   margin: 10px 0;
@@ -252,7 +252,7 @@ span.price {
 					
 						echo "	
 
-						<tr><td><p>$item_number_</p></td><td><p>$item_name_</p></td><td ><p>$quantity_</p></td><td ><p>RM $amount_</p></td></tr>";
+						<tr><td><p>$item_number_</p></td><td><p>$item_name_</p></td><td ><p>$quantity_</p></td><td ><p>Rs. $amount_</p></td></tr>";
 						
 						$i++;
 					}
@@ -263,7 +263,7 @@ span.price {
 				</table>
 				<hr>
 				
-				<h3>total<span class='price' style='color:black'><b>RM $total</b></span></h3>";
+				<h3>total<span class='price' style='color:black'><b>Rs. $total</b></span></h3>";
 					
 				}
 				?>
